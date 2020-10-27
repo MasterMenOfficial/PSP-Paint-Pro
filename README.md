@@ -1,4 +1,4 @@
-# Paint Pro 0.1 (Pre-Alpha) by MasterMen
+# Paint Pro 0.1 (Pre-Alpha) by MasterMen and Exnonull
 
 --- Thanks to... ---
 BIG THANKS to Exnonull. He collected an engine and made an empty project for me.
